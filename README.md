@@ -30,6 +30,20 @@ As you see from the theme preview image, I use my customized self-host homepage 
 - [mamizu](https://github.com/HelloYeew/mamizu) : Fork of [Flame](https://github.com/pawelmalak/flame) that I add some of my customization to make it looking same as my theme and some of my personal customization.
 - [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia) : Without this extension I cannot set mamizu as my chrome homepage.
 
+### Plugin & Extension
+
+**Useful GitHub related tool:**
+
+- [GitHub Red Issues](https://chrome.google.com/webstore/detail/github-red-issues/kjbbjibfgnnfdeabgmbieapkhpojikpc) : This extension make your closed issues no more disgusting purple like merged PR color.
+- [GitHub Issues Link Status](https://chrome.google.com/webstore/detail/github-issue-link-status/nbiddhncecgemgccalnoanpnenalmkic) : Show issues or PR status on GitHub so you don't have to click on the issues or PR to see its status.
+- [GitHub Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) : Just hover your mouse to all link in GitHub and you can glancing some short information like profile, PR detail or issues detail.
+
+**More pretty cool extensions:**
+
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) : Make your browser like Vim by add some feature that's like Vim so you can use your browser with your keyboard and use some of pretty useful keybind feature.
+- [Web Scrobbler](https://chrome.google.com/webstore/detail/web-scrobbler/hhinaapppaileiechjoiifaancjggfjm) : Integrate your chrome with last.fm
+- [Screenshot YouTube](https://chrome.google.com/webstore/detail/screenshot-youtube/gjoijpfmdhbjkkgnmahganhoinjjpohk) : Make your screenshot from YouTube more pretty and high resolution.
+
 ## IDE
 
 I normally use JetBrain platform as a primary IDE and [Visual Studio Code](https://code.visualstudio.com/) as a secondary IDE. Here's my IDE that I use.
@@ -66,3 +80,33 @@ Since JetBrain has sync customization like VSCode so I don't need a lot of sync 
 - [Day and Night](https://plugins.jetbrains.com/plugin/12006-day-and-night) (JetBrain IDE only) : Set your favorite theme as day and night theme so you can click the icon to switch between day and night theme or set your time to make your IDE automatically switch between day and night theme.
 - [CodeGlance](https://plugins.jetbrains.com/plugin/7275-codeglance) (JetBrain IDE only) : Embeds a code minimap similar to the one found in Sublime into the editor pane.
 - [.ignore](https://plugins.jetbrains.com/plugin/7495--ignore) (JetBrain IDE only) : Quickly create .blablaignore file with some pretty good template and you can set your presonal ignore file as your template for every project too.
+
+## Music
+
+Music is very essential for my workflow since I always listen to music during coding and working that's why I give a lot of time to setup my music player flow.
+
+I normally listen to [Doujin music](https://en.wikipedia.org/wiki/Doujin_music) that's not available on streaming service that's why I still download music and use the player to open it.
+
+Since my music library is pretty huge (~334 GB) and it's a big task to handle these pretty big library and I found [MusicBee](https://www.musicbee.org/) (Windows only) that can handle it very well, lightweight and have pretty UI and pretty plugin API support.
+
+But by the way on my MacBook I still using [Apple Music](https://www.apple.com/music/) to listen to music since it's a lot easier to handle and it's available on all device.
+
+Next problem is I listen to a lot of Japanese music but I cannot find some pretty good streaming service that have a full Japanese music library and I found [AWA](https://awa.fm/) that you can subsribe to it without any Japanese credit card required and its feature is similar to [Spotify](https://www.spotify.com/) so it's a pretty good streaming service for listening Japanese music. (Since it's Japanese music streaming service by the way)
+
+And I still using [last.fm](https://last.fm) so I installed its official scrobbler to all my device to track my listening history. (In MusicBee it has last.fm integration too so just login and you can scrobble it from there too.)
+
+### MusicBee setup
+
+#### Skin
+
+- [Spotify's Accent Dark](https://www.getmusicbee.com/addons/skins/91/spotify-039-s-accent-dark/)
+
+#### Plugin
+
+- [DiscordBee](https://www.getmusicbee.com/addons/plugins/156/discordbee/) : Show your current playing song on Discord rich presence.
+- [Windows 10 Media Control Overlay](https://www.getmusicbee.com/addons/plugins/98/windows-10-media-control-overlay/) : Integrate your music player with Windows 10 Media Control Overlay. (You can use this on Windows 11 too.)
+- [User Cosmetics](https://www.getmusicbee.com/addons/plugins/358/musicbee-usercosmetics/) : Add your cool profile to your MusicBee.
+
+## Other tools
+
+- [Termius](https://termius.com/) : Easy for make your SSH connection less tedious and cross-platform.
