@@ -23,6 +23,9 @@ I use theme that I create from [loundraw's illustration from 君は月夜に光�
 
 Download : [You Shine in the Moonlit Night](theme/You-Shine-in-the-Moonlit-Night.crx)
 
+**Old theme that I create and use before:**
+*Will update soon*
+
 ### Homepage
 
 As you see from the theme preview image, I use my customized self-host homepage since I want to use this homepage on every device.
