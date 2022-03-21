@@ -30,7 +30,7 @@ Download : [You Shine in the Moonlit Night](theme/You-Shine-in-the-Moonlit-Night
 
 As you see from the theme preview image, I use my customized self-host homepage since I want to use this homepage on every device.
 
-- [mamizu](https://github.com/HelloYeew/mamizu) : Fork of [Flame](https://github.com/pawelmalak/flame) that I add some of my customization to make it looking same as my theme and some of my personal customization.
+- [mamizu](https://github.com/HelloYeew/mamizu) : Fork of [Flame](https://github.com/pawelmalak/flame) that I add some of my customization to make it looking same as my theme and some of my personal customization like wallpaper or font.
 - [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia) : Without this extension I cannot set mamizu as my chrome homepage.
 
 ### Plugin & Extension
