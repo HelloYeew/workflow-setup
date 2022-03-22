@@ -13,7 +13,7 @@ That's why I try to make almost of every tool sync between these three devices s
 
 ## Browser
 
-I normally use [Google Chrome](https://www.google.com/chrome/) as a primary browser since I use it for a long time and it's good for web development. (I use [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) too but not much.)
+I normally use [Google Chrome](https://www.google.com/chrome/) as a primary browser since I use it for a long time and it's good for web development. (I use [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge) too but not much. Just use it as a test browser)
 
 ### Theme
 
