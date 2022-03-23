@@ -24,7 +24,8 @@ I use theme that I create from [loundraw's illustration from 君は月夜に光�
 Download : [You Shine in the Moonlit Night](theme/You-Shine-in-the-Moonlit-Night.crx)
 
 **Old theme that I create and use before:**
-*Will update soon*
+- [[Sakura Memories] Kasumi Toyama](theme/[Sakura Memories]-Kasumi-Toyama.crx)
+- [Evening Lonely Girl](theme/Evening-Lonely-Girl.crx)
 
 ### Homepage
 
