@@ -111,6 +111,10 @@ And I still using [last.fm](https://last.fm) so I installed its official scrobbl
 - [Windows 10 Media Control Overlay](https://www.getmusicbee.com/addons/plugins/98/windows-10-media-control-overlay/) : Integrate your music player with Windows 10 Media Control Overlay. (You can use this on Windows 11 too.)
 - [User Cosmetics](https://www.getmusicbee.com/addons/plugins/358/musicbee-usercosmetics/) : Add your cool profile to your MusicBee.
 
+## MacBook specific tool and setup
+
+Since in MacBook there is a lot of good tool and more setup that's why I seperate my MacBook setup to [this repository](https://github.com/HelloYeew/macbook-setup).
+
 ## Other tools
 
 - [Termius](https://termius.com/) : Easy for make your SSH connection less tedious and cross-platform.
