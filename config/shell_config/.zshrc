@@ -127,3 +127,6 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="$PATH:/Users/helloyeew/flutter/flutter/bin"
 
 export PATH="$PATH:/Applications/SWI-Prolog.app/Contents/MacOS"
+
+# GitHub Copilot CLI
+eval "$(github-copilot-cli alias -- "$0")"
