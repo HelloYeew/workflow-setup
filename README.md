@@ -65,13 +65,16 @@ I normally use JetBrain platform as a primary IDE and [Visual Studio Code](https
 
 Since JetBrain has sync customization like VSCode so I don't need a lot of sync setup on all device.
 
-- [The Doki Theme](https://doki-theme.unthrottled.io/) : It provide a theme on a lot of platform with anime-style color theme. I setup this on both JetBrain IDE and VSCode and on GitHub too. I use *NekoPara : Chocola* as night theme and *NekoPara : Shigure* as day theme. (Yeah I use day theme!) But the most feature that I love is you can add your favorite character as your sticker on your IDE! (In JetBrain IDE you can also move it too.) So you can have a nice anime-style theme with your favorite character on your IDE when you are tired and want some energy from your waifu.
+- [HelloYeew Theme](https://plugins.jetbrains.com/plugin/22883-helloyeew-theme) (JetBrain IDE only) : My own theme designed by myself and support on my language that I use.
+
+**Customization plugin that I use before but I'm not using anymore** :
+
+- [The Doki Theme](https://doki-theme.unthrottled.io/) : It provide a theme on a lot of platform with anime-style color theme. I setup this on both JetBrain IDE and VSCode and on GitHub too. I use *NekoPara : Chocola* as night theme and *NekoPara : Shigure* as day theme. (Yeah I use day theme!) But the most feature that I love is you can add your favorite character as your sticker on your IDE! (In JetBrain IDE you can also move it too.) So you can have a nice anime-style theme with your favorite character on your IDE when you are tired and want some energy from your waifu. But it's deprecated now in JetBrain IDE side and not much update so I decided to use my own theme
 
 ![Doki Theme](img/doki-theme-jetbrain.png)
 
 - [Dark Purple Theme](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme) (JetBrain IDE only) : I sometime swap to this theme when sometime I'm bored and want to change some color on my IDE.
 
-**Customization plugin that I use before but I'm not using anymore** :
 - [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) (JetBrain IDE only) : At first it's a free and very good plugin to fully customized your JetBrain IDE with Material UI but when it convert to Freemium and on latest version with new styling it's make your IDE a lot more resource and make your IDE performance a lot worsen that's why I don't use it anymore.
 
 ### Useful plugin
