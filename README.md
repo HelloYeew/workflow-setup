@@ -5,6 +5,7 @@ Here's the list of tool and setup that I use in my workflow.
 ## Note on my setup
 
 Note that I work on many platform :
+- iOS (iPhone) for quickly check GitHub notificationa and do some quick routine thing
 - MacOS (MacBook Pro) for all development, testing and when not working at home.
 - Windows (PC) with Linux virtual machine for .NET development and testing stuff too. When I'm working at home I usually use this.
 - iPad (iPad Pro) for speedy PR check and some urgent SSH connection.
